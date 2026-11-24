@@ -1,0 +1,6 @@
+input/wrf/*
+output/wyoming/*
+output/wrf/*
+!**/.gitkeep
+
+brazil-soundings.sh
